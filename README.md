@@ -24,7 +24,7 @@ Vi kommer också att fördjupa oss i det som inom JavaScript kallas moduler, och
 
 ### Lektionsrepon
 
-* [9 feb]()
+* [9 feb](https://github.com/fe-javascript-fe25/week-7-lecture-9-feb)
 * [10 feb]()
 
 ### Filmer
@@ -38,4 +38,4 @@ Vi kommer också att fördjupa oss i det som inom JavaScript kallas moduler, och
 
 ### Övningar
 
-* [API Bootcamp]()
+* [API Bootcamp](https://github.com/fe-javascript-fe25/week-7-exercise-api-bootcamp)
