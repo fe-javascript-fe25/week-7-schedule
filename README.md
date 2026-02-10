@@ -23,6 +23,7 @@ Vi kommer också att fördjupa oss i det som inom JavaScript kallas moduler, och
 
 * [Asynkrona Funktioner & API-anrop, 9 feb](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCIPlRPL2MPRrITuGTgkfl8AQ8gPtBEJAUkdlOMx7AOh9o?e=VRhUCA)
 * [Code Along, API-anrop, 9 feb](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDC8vqngkiXRJ-qQkIwf96IARzOdgdh4nHVEoJvSUYohl8?e=VSViKn)
+* [ES6 moduler, Code Along, 10 feb](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCQ9V9y1XcwRaGLCX6l8M1rAUHnsj_6mW4OdR3OvKHzwaw?e=slEhuH)
 
 ### Lektionsrepon
 
